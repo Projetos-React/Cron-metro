@@ -3,11 +3,11 @@
 ## Súmario
 
 <ul>
-  <li><a href="#Sobre">Sobre</a></li>
-  <li><a href="#Features" >Features</a></li>
-  <li><a href="#Funcionamento" >Funcionamento</a></li>
-  <li><a href="#Pré-requisitos" >Pré-requisitos</a></li>
-  <li><a href="#Como-rodar" >Como rodar</a></li>
+  <li><a href="#Sobre" style="text-decoration: none;">Sobre</a></li>
+  <li><a href="#Features" style="text-decoration: none;">Features</a></li>
+  <li><a href="#Funcionamento" style="text-decoration: none;">Funcionamento</a></li>
+  <li><a href="#Pré-requisitos" style="text-decoration: none;">Pré-requisitos</a></li>
+  <li><a href="#Como-rodar" style="text-decoration: none;">Como rodar</a></li>
 </ul>
 
 ## Sobre
@@ -28,8 +28,8 @@ os segundos, minutos e até horas de uma determinada atividade.</p>
 ## Pré-requisitos
 
 <p>Para rodar o projeto são necessárias as seguintes ferramentas:
-<a href="https://nodejs.org/en" target="blank" style={{textDecoration:'none'}}>Nodejs<a/> e <a href="https://git-scm.com/" target="blank">Git<a/>.
-Ademais, é aconselhavel ter um editor de código, como o <a href="https://code.visualstudio.com/" alt="Link para o VScode target="blank">VScode</a>.</p>
+<a href="https://nodejs.org/en" target="blank" style="text-decoration: none;">Nodejs<a/> e <a href="https://git-scm.com/" target="blank" style="text-decoration: none;">Git<a/>.
+Ademais, é aconselhavel ter um editor de código, como o <a href="https://code.visualstudio.com/" alt="Link para o VScode target="blank" style="text-decoration: none;">VScode</a>.</p>
 
 ## Como rodar
 ```bash
